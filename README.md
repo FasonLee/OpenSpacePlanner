@@ -1,4 +1,4 @@
-# OpenSpacePlanner  
+# Usage  
 ## 1. ThirdParty Installation
 **opencv-3.4.0**  
 
